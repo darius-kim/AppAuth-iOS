@@ -29,7 +29,7 @@ tasks like performing an action with fresh tokens.
 
   s.platforms    = { :ios => "9.0", :osx => "10.8", :watchos => "2.0", :tvos => "9.0" }
 
-  s.source       = { :git => "https://github.com/darius-kim/AppAuth-iOS.git", :branch => "xcode-9" }
+  s.source       = { :git => "https://github.com/darius-kim/AppAuth-iOS.git", :tag => "0.9.2" }
 
   s.pod_target_xcconfig = {
     # Treat warnings as errors.
